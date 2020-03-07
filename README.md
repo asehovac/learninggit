@@ -1,2 +1,1 @@
-#Learning Git Bash
-Playing around with git 
+Learning git bash stuff  
