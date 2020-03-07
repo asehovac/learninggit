@@ -1,1 +1,3 @@
 yo yo 
+
+it has to be edited on files that were in both branches when the side branch from master was made in order to edit only on login branch 
